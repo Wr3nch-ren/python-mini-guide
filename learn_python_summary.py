@@ -87,3 +87,5 @@ print("--------------------------------")
 ### end of everything almost fundamental for me ###
 
 # wants more advance?, request Wr3nch#6330 in discord, thank you teacher.
+
+# or tell me in here https://github.com/Wr3nch-ren/python-mini-guide
