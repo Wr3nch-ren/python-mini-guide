@@ -29,7 +29,11 @@ b = 5+2; print(b) # addition
 c = 5-2; print(c) # subtraction
 d = 5*2; print(d) # multiplication
 e = 5/2; print(e) # division
-f = 5%2; print(f) # modulation
+f = 5%2; print(f) # modulus
+g = 5**2; print(g) # exponentiation
+h = 5//2; print(h) # floor division
+
+# there are also another types but I would like to not explain further.
 
 print("--------------------------------")
 
@@ -68,7 +72,7 @@ print(f"you just type '{A}' as output") # print what you type
 print("--------------------------------")
 # if/else conditions
 
-print("edit code data in line '69' to see how if/else operates")
+print("edit code data in line '74' to see how if/else operates")
 A = "yay"
 
 if A == "yay": # "==" refers to "equals to"
@@ -82,7 +86,7 @@ i = 3
 
 while (i != 0): # "!=" refers to "not equals to"
     print("xD") # print when inside loop
-    i -= 1 # add more numbers to "i" variable
+    i -= 1 # subtract number in "i" variable
 print("--------------------------------")
 ### end of everything almost fundamental for me ###
 
